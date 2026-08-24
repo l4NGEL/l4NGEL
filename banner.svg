@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Beyza Nur Kilic - software engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="55%" stop-color="#0C1424"/>
+      <stop offset="100%" stop-color="#101A2E"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F3E2B4"/>
+      <stop offset="100%" stop-color="#C9A86C"/>
+    </linearGradient>
+    <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9DB7FF"/>
+      <stop offset="100%" stop-color="#6EE7D8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="42%">
+      <stop offset="0%" stop-color="#7C9CFF" stop-opacity="0.28"/>
+      <stop offset="55%" stop-color="#7C9CFF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#7C9CFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#glow)"/>
+
+  <g stroke="#8FA4D8" stroke-opacity="0.08" fill="none">
+    <path d="M0 84 H1280 M0 168 H1280 M0 252 H1280 M0 336 H1280"/>
+    <path d="M160 0 V420 M320 0 V420 M480 0 V420 M640 0 V420 M800 0 V420 M960 0 V420 M1120 0 V420"/>
+  </g>
+
+  <g fill="none" stroke="url(#ice)" stroke-opacity="0.35">
+    <circle cx="1040" cy="210" r="118" stroke-width="1.2"/>
+    <circle cx="1040" cy="210" r="168" stroke-width="1"/>
+    <circle cx="1040" cy="210" r="218" stroke-width="0.7" stroke-opacity="0.22"/>
+    <path d="M860 210 H1220" stroke-width="1" stroke-opacity="0.4"/>
+    <path d="M1040 28 V392" stroke-width="1" stroke-opacity="0.25"/>
+  </g>
+  <circle cx="1040" cy="210" r="6" fill="#6EE7D8"/>
+  <circle cx="1128" cy="148" r="3.5" fill="#F3E2B4"/>
+  <circle cx="968" cy="268" r="2.5" fill="#9DB7FF"/>
+
+  <rect x="0" y="0" width="6" height="420" fill="url(#gold)"/>
+
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <text x="72" y="132" fill="#9DB7FF" font-size="15" letter-spacing="4.5">SOFTWARE ENGINEER</text>
+    <text x="72" y="198" fill="#F7F4EE" font-size="52" font-weight="700">Beyza Nur K&#305;l&#305;&#231;</text>
+    <text x="72" y="248" fill="#C9D4F0" font-size="20">Mobil &#183; web &#183; HMI &#183; g&#252;venlik do&#287;rulama</text>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <rect x="72" y="292" width="118" height="34" rx="17" fill="none" stroke="#C9A86C" stroke-opacity="0.7"/>
+    <text x="131" y="314" text-anchor="middle" fill="#F3E2B4" font-size="13">Flutter</text>
+
+    <rect x="202" y="292" width="132" height="34" rx="17" fill="none" stroke="#9DB7FF" stroke-opacity="0.55"/>
+    <text x="268" y="314" text-anchor="middle" fill="#C9D4F0" font-size="13">TypeScript</text>
+
+    <rect x="346" y="292" width="110" height="34" rx="17" fill="none" stroke="#6EE7D8" stroke-opacity="0.55"/>
+    <text x="401" y="314" text-anchor="middle" fill="#C9D4F0" font-size="13">Python</text>
+
+    <rect x="468" y="292" width="86" height="34" rx="17" fill="none" stroke="#C9A86C" stroke-opacity="0.45"/>
+    <text x="511" y="314" text-anchor="middle" fill="#C9D4F0" font-size="13">Java</text>
+  </g>
+</svg>
