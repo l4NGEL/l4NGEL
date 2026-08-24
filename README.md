@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="banner.svg" alt="Beyza Nur Kılıç — Software Engineer" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://github.com/l4NGEL">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3200&pause=900&color=F3E2B4&center=true&vCenter=true&width=720&lines=Software+Engineer;Flutter+%C2%B7+TypeScript+%C2%B7+Python;HMI+%C2%B7+mobil+%C2%B7+g%C3%BCvenlik+do%C4%9Frulama" alt="typing headline">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/beyza-nur-kılıç"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/l4NGEL"><img src="https://img.shields.io/badge/GitHub-l4NGEL-0B1220?style=for-the-badge&logo=github&logoColor=F3E2B4" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Papilon-Software%20Developer-1B2A4A?style=for-the-badge" alt="Papilon">
-</p>
 
 ---
 
