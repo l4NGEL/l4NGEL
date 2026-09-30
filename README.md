@@ -1,8 +1,6 @@
 [![Beyza Nur Kılıç — bilgisayarlı görü, yapay zekâ, savunma sistemleri](banner.svg)](https://l4ngel.github.io/)
 
-Bilgisayar mühendisiyim. Papilon Savunma'da junior full-stack developer olarak çalışıyorum. Savunma sistemleri için bilgisayarlı görü, hedef takibi ve operatör yazılımı geliştiriyorum.
-
-*I build computer vision, tracking, and operator software for defense systems.*
+Bilgisayar mühendisiyim. Papilon Savunma'da junior full-stack developer olarak çalışıyorum.
 
 ## Seçili işler
 
