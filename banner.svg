@@ -6,8 +6,6 @@
     <text x="64" y="118" fill="#8c929b" font-size="15" letter-spacing="3.2">BİLGİSAYAR MÜHENDİSİ  ·  ANKARA</text>
     <text x="64" y="196" fill="#f4f1ea" font-family="Georgia, Times New Roman, serif" font-size="60">Beyza Nur Kılıç</text>
     <text x="64" y="244" fill="#b4b9c1" font-size="20">Papilon Savunma  ·  Junior Full-Stack Developer</text>
-    <text x="64" y="330" fill="#e8e9eb" font-size="18">Savunma sistemleri için görü, takip</text>
-    <text x="64" y="356" fill="#e8e9eb" font-size="18">ve operatör yazılımı.</text>
     <text x="690" y="78" fill="#8c929b" font-size="13" letter-spacing="2.4">DİLLER  ·  KOD HACMİ</text>
   </g>
   
@@ -42,14 +40,14 @@
   <text x="1150" y="424" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">1%</text>
 
   <g font-family="Georgia, Times New Roman, serif" fill="#f4f1ea">
-    <text x="64" y="438" font-size="36">20</text>
-    <text x="210" y="438" font-size="36">09</text>
-    <text x="390" y="438" font-size="36">17</text>
+    <text x="64" y="320" font-size="36">20</text>
+    <text x="210" y="320" font-size="36">09</text>
+    <text x="390" y="320" font-size="36">17</text>
   </g>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#8c929b" font-size="14">
-    <text x="118" y="438">proje</text>
-    <text x="268" y="438">açık kaynak</text>
-    <text x="448" y="438">sertifika</text>
-    <text x="64" y="482" fill="#8db4e2" font-size="16">l4ngel.github.io</text>
+    <text x="118" y="320">proje</text>
+    <text x="268" y="320">açık kaynak</text>
+    <text x="448" y="320">sertifika</text>
+    <text x="64" y="364" fill="#8db4e2" font-size="16">l4ngel.github.io</text>
   </g>
 </svg>
