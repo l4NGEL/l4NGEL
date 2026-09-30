@@ -1,51 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-label="Beyza Nur Kılıç, bilgisayar mühendisi">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-label="Beyza Nur Kılıç, programlama dilleri">
   <rect width="1280" height="520" fill="#121418"/>
-  <g stroke="#2e3238" stroke-width="1">
-    <path d="M0 86 H1280 M0 172 H1280 M0 258 H1280 M0 344 H1280 M0 430 H1280"/>
-    <path d="M160 0 V520 M320 0 V520 M480 0 V520 M640 0 V520 M800 0 V520 M960 0 V520 M1120 0 V520"/>
-  </g>
   <rect width="5" height="520" fill="#8db4e2"/>
-  
-    <line x1="880" y1="118" x2="1040" y2="210" stroke="#8c929b" stroke-width="1" opacity="0.16"/>
-    <line x1="1040" y1="210" x2="1148" y2="132" stroke="#8db4e2" stroke-width="1" opacity="0.2"/>
-    <line x1="1040" y1="210" x2="900" y2="340" stroke="#8c929b" stroke-width="1" opacity="0.14"/>
-    <line x1="1040" y1="210" x2="1160" y2="318" stroke="#8db4e2" stroke-width="1" opacity="0.16"/>
-
-  
-    <polyline points="900,150 940,168 980,186 1010,198 1040,210" fill="none" stroke="#8db4e2" stroke-width="1.1" opacity="0.45"/>
-    <path d="M997.0,191.1 L997.0,167.0 L1021.1,167.0 M1058.9,167.0 L1083.0,167.0 L1083.0,191.1 M1083.0,228.9 L1083.0,253.0 L1058.9,253.0 M1021.1,253.0 L997.0,253.0 L997.0,228.9" fill="none" stroke="#8db4e2" stroke-width="1.7" opacity="0.95"/>
-    <circle cx="1040" cy="210" r="3" fill="#8db4e2" opacity="0.95"/>
-    <text x="1091" y="171" fill="#8db4e2" opacity="0.95" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 07 · takipte</text>
-    
-    <polyline points="760,70 800,86 840,102 880,118" fill="none" stroke="#8c929b" stroke-width="1.1" opacity="0.22"/>
-    <path d="M854.0,106.6 L854.0,92.0 L868.6,92.0 M891.4,92.0 L906.0,92.0 L906.0,106.6 M906.0,129.4 L906.0,144.0 L891.4,144.0 M868.6,144.0 L854.0,144.0 L854.0,129.4" fill="none" stroke="#8c929b" stroke-width="1.15" opacity="0.55"/>
-    <circle cx="880" cy="118" r="2" fill="#8c929b" opacity="0.55"/>
-    <text x="914" y="96" fill="#8c929b" opacity="0.55" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 03</text>
-    
-    <polyline points="1220,70 1190,92 1168,112 1148,132" fill="none" stroke="#8c929b" stroke-width="1.1" opacity="0.22"/>
-    <path d="M1126.0,122.3 L1126.0,110.0 L1138.3,110.0 M1157.7,110.0 L1170.0,110.0 L1170.0,122.3 M1170.0,141.7 L1170.0,154.0 L1157.7,154.0 M1138.3,154.0 L1126.0,154.0 L1126.0,141.7" fill="none" stroke="#8c929b" stroke-width="1.15" opacity="0.55"/>
-    <circle cx="1148" cy="132" r="2" fill="#8c929b" opacity="0.55"/>
-    <text x="1178" y="114" fill="#8c929b" opacity="0.55" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 11</text>
-    
-    <polyline points="1040,390 1080,366 1120,342 1160,318" fill="none" stroke="#8c929b" stroke-width="1.1" opacity="0.22"/>
-    <path d="M1131.0,305.2 L1131.0,289.0 L1147.2,289.0 M1172.8,289.0 L1189.0,289.0 L1189.0,305.2 M1189.0,330.8 L1189.0,347.0 L1172.8,347.0 M1147.2,347.0 L1131.0,347.0 L1131.0,330.8" fill="none" stroke="#8c929b" stroke-width="1.15" opacity="0.55"/>
-    <circle cx="1160" cy="318" r="2" fill="#8c929b" opacity="0.55"/>
-    <text x="1197" y="293" fill="#8c929b" opacity="0.55" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 15</text>
-    
-    <polyline points="780,390 820,372 860,356 900,340" fill="none" stroke="#8c929b" stroke-width="1.1" opacity="0.22"/>
-    <path d="M877.0,329.9 L877.0,317.0 L889.9,317.0 M910.1,317.0 L923.0,317.0 L923.0,329.9 M923.0,350.1 L923.0,363.0 L910.1,363.0 M889.9,363.0 L877.0,363.0 L877.0,350.1" fill="none" stroke="#8c929b" stroke-width="1.15" opacity="0.55"/>
-    <circle cx="900" cy="340" r="2" fill="#8c929b" opacity="0.55"/>
-    <text x="931" y="321" fill="#8c929b" opacity="0.55" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 19</text>
-    
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
     <text x="64" y="118" fill="#8c929b" font-size="15" letter-spacing="3.2">BİLGİSAYAR MÜHENDİSİ  ·  ANKARA</text>
-    <text x="64" y="196" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="64">Beyza Nur Kılıç</text>
-    <text x="64" y="242" fill="#b4b9c1" font-size="20">Papilon Savunma  ·  Junior Full-Stack Developer</text>
-    <text x="64" y="312" fill="#e8e9eb" font-size="22">Görü, yapay zekâ ve savunma sistemleri.</text>
-    <text x="64" y="344" fill="#8c929b" font-size="18">Modelin eğitiminden sahada çalışan uygulamaya.</text>
+    <text x="64" y="196" fill="#f4f1ea" font-family="Georgia, Times New Roman, serif" font-size="60">Beyza Nur Kılıç</text>
+    <text x="64" y="244" fill="#b4b9c1" font-size="20">Papilon Savunma  ·  Junior Full-Stack Developer</text>
+    <text x="64" y="318" fill="#e8e9eb" font-size="22">Görü, yapay zekâ ve savunma sistemleri.</text>
+    <text x="64" y="352" fill="#8c929b" font-size="18">Modelin eğitiminden sahada çalışan uygulamaya.</text>
+    <text x="690" y="78" fill="#8c929b" font-size="13" letter-spacing="2.4">DİLLER  ·  KOD HACMİ</text>
   </g>
-  <g font-family="Georgia, 'Times New Roman', serif" fill="#f4f1ea">
+  
+  <text x="690" y="134" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Python</text>
+  <rect x="830" y="122" width="300" height="8" rx="4" fill="#23272c"/>
+  <rect x="830" y="122" width="102" height="8" rx="4" fill="#4B8BBE"/>
+  <text x="1150" y="134" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">34%</text>
+
+  <text x="690" y="192" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">C#</text>
+  <rect x="830" y="180" width="300" height="8" rx="4" fill="#23272c"/>
+  <rect x="830" y="180" width="87" height="8" rx="4" fill="#C4A0E0"/>
+  <text x="1150" y="192" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">29%</text>
+
+  <text x="690" y="250" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">JavaScript</text>
+  <rect x="830" y="238" width="300" height="8" rx="4" fill="#23272c"/>
+  <rect x="830" y="238" width="54" height="8" rx="4" fill="#E6C35C"/>
+  <text x="1150" y="250" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">18%</text>
+
+  <text x="690" y="308" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Dart</text>
+  <rect x="830" y="296" width="300" height="8" rx="4" fill="#23272c"/>
+  <rect x="830" y="296" width="27" height="8" rx="4" fill="#2EC4B6"/>
+  <text x="1150" y="308" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">9%</text>
+
+  <text x="690" y="366" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Kotlin</text>
+  <rect x="830" y="354" width="300" height="8" rx="4" fill="#23272c"/>
+  <rect x="830" y="354" width="6" height="8" rx="4" fill="#A78BFA"/>
+  <text x="1150" y="366" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">2%</text>
+
+  <text x="690" y="424" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Swift</text>
+  <rect x="830" y="412" width="300" height="8" rx="4" fill="#23272c"/>
+  <rect x="830" y="412" width="4" height="8" rx="4" fill="#E07A5F"/>
+  <text x="1150" y="424" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">1%</text>
+
+  <g font-family="Georgia, Times New Roman, serif" fill="#f4f1ea">
     <text x="64" y="438" font-size="36">20</text>
     <text x="210" y="438" font-size="36">09</text>
     <text x="390" y="438" font-size="36">17</text>
