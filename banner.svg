@@ -1,64 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Beyza Nur Kilic - software engineer">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#070B14"/>
-      <stop offset="55%" stop-color="#0C1424"/>
-      <stop offset="100%" stop-color="#101A2E"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#F3E2B4"/>
-      <stop offset="100%" stop-color="#C9A86C"/>
-    </linearGradient>
-    <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#9DB7FF"/>
-      <stop offset="100%" stop-color="#6EE7D8"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="78%" cy="42%" r="42%">
-      <stop offset="0%" stop-color="#7C9CFF" stop-opacity="0.28"/>
-      <stop offset="55%" stop-color="#7C9CFF" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#7C9CFF" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="1280" height="420" fill="url(#bg)"/>
-  <rect width="1280" height="420" fill="url(#glow)"/>
-
-  <g stroke="#8FA4D8" stroke-opacity="0.08" fill="none">
-    <path d="M0 84 H1280 M0 168 H1280 M0 252 H1280 M0 336 H1280"/>
-    <path d="M160 0 V420 M320 0 V420 M480 0 V420 M640 0 V420 M800 0 V420 M960 0 V420 M1120 0 V420"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-label="Beyza Nur Kılıç, bilgisayar mühendisi">
+  <rect width="1280" height="520" fill="#121418"/>
+  <g stroke="#2e3238" stroke-width="1">
+    <path d="M0 86 H1280 M0 172 H1280 M0 258 H1280 M0 344 H1280 M0 430 H1280"/>
+    <path d="M160 0 V520 M320 0 V520 M480 0 V520 M640 0 V520 M800 0 V520 M960 0 V520 M1120 0 V520"/>
   </g>
+  <rect width="5" height="520" fill="#8db4e2"/>
+  
+    <line x1="880" y1="118" x2="1040" y2="210" stroke="#8c929b" stroke-width="1" opacity="0.16"/>
+    <line x1="1040" y1="210" x2="1148" y2="132" stroke="#8db4e2" stroke-width="1" opacity="0.2"/>
+    <line x1="1040" y1="210" x2="900" y2="340" stroke="#8c929b" stroke-width="1" opacity="0.14"/>
+    <line x1="1040" y1="210" x2="1160" y2="318" stroke="#8db4e2" stroke-width="1" opacity="0.16"/>
 
-  <g fill="none" stroke="url(#ice)" stroke-opacity="0.35">
-    <circle cx="1040" cy="210" r="118" stroke-width="1.2"/>
-    <circle cx="1040" cy="210" r="168" stroke-width="1"/>
-    <circle cx="1040" cy="210" r="218" stroke-width="0.7" stroke-opacity="0.22"/>
-    <path d="M860 210 H1220" stroke-width="1" stroke-opacity="0.4"/>
-    <path d="M1040 28 V392" stroke-width="1" stroke-opacity="0.25"/>
+  
+    <polyline points="900,150 940,168 980,186 1010,198 1040,210" fill="none" stroke="#8db4e2" stroke-width="1.1" opacity="0.45"/>
+    <path d="M997.0,191.1 L997.0,167.0 L1021.1,167.0 M1058.9,167.0 L1083.0,167.0 L1083.0,191.1 M1083.0,228.9 L1083.0,253.0 L1058.9,253.0 M1021.1,253.0 L997.0,253.0 L997.0,228.9" fill="none" stroke="#8db4e2" stroke-width="1.7" opacity="0.95"/>
+    <circle cx="1040" cy="210" r="3" fill="#8db4e2" opacity="0.95"/>
+    <text x="1091" y="171" fill="#8db4e2" opacity="0.95" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 07 · takipte</text>
+    
+    <polyline points="760,70 800,86 840,102 880,118" fill="none" stroke="#8c929b" stroke-width="1.1" opacity="0.22"/>
+    <path d="M854.0,106.6 L854.0,92.0 L868.6,92.0 M891.4,92.0 L906.0,92.0 L906.0,106.6 M906.0,129.4 L906.0,144.0 L891.4,144.0 M868.6,144.0 L854.0,144.0 L854.0,129.4" fill="none" stroke="#8c929b" stroke-width="1.15" opacity="0.55"/>
+    <circle cx="880" cy="118" r="2" fill="#8c929b" opacity="0.55"/>
+    <text x="914" y="96" fill="#8c929b" opacity="0.55" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 03</text>
+    
+    <polyline points="1220,70 1190,92 1168,112 1148,132" fill="none" stroke="#8c929b" stroke-width="1.1" opacity="0.22"/>
+    <path d="M1126.0,122.3 L1126.0,110.0 L1138.3,110.0 M1157.7,110.0 L1170.0,110.0 L1170.0,122.3 M1170.0,141.7 L1170.0,154.0 L1157.7,154.0 M1138.3,154.0 L1126.0,154.0 L1126.0,141.7" fill="none" stroke="#8c929b" stroke-width="1.15" opacity="0.55"/>
+    <circle cx="1148" cy="132" r="2" fill="#8c929b" opacity="0.55"/>
+    <text x="1178" y="114" fill="#8c929b" opacity="0.55" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 11</text>
+    
+    <polyline points="1040,390 1080,366 1120,342 1160,318" fill="none" stroke="#8c929b" stroke-width="1.1" opacity="0.22"/>
+    <path d="M1131.0,305.2 L1131.0,289.0 L1147.2,289.0 M1172.8,289.0 L1189.0,289.0 L1189.0,305.2 M1189.0,330.8 L1189.0,347.0 L1172.8,347.0 M1147.2,347.0 L1131.0,347.0 L1131.0,330.8" fill="none" stroke="#8c929b" stroke-width="1.15" opacity="0.55"/>
+    <circle cx="1160" cy="318" r="2" fill="#8c929b" opacity="0.55"/>
+    <text x="1197" y="293" fill="#8c929b" opacity="0.55" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 15</text>
+    
+    <polyline points="780,390 820,372 860,356 900,340" fill="none" stroke="#8c929b" stroke-width="1.1" opacity="0.22"/>
+    <path d="M877.0,329.9 L877.0,317.0 L889.9,317.0 M910.1,317.0 L923.0,317.0 L923.0,329.9 M923.0,350.1 L923.0,363.0 L910.1,363.0 M889.9,363.0 L877.0,363.0 L877.0,350.1" fill="none" stroke="#8c929b" stroke-width="1.15" opacity="0.55"/>
+    <circle cx="900" cy="340" r="2" fill="#8c929b" opacity="0.55"/>
+    <text x="931" y="321" fill="#8c929b" opacity="0.55" font-family="ui-monospace, Cascadia Mono, Consolas, monospace" font-size="12">ID 19</text>
+    
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="64" y="118" fill="#8c929b" font-size="15" letter-spacing="3.2">BİLGİSAYAR MÜHENDİSİ  ·  ANKARA</text>
+    <text x="64" y="196" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="64">Beyza Nur Kılıç</text>
+    <text x="64" y="242" fill="#b4b9c1" font-size="20">Papilon Savunma  ·  Junior Full-Stack Developer</text>
+    <text x="64" y="312" fill="#e8e9eb" font-size="22">Görü, yapay zekâ ve savunma sistemleri.</text>
+    <text x="64" y="344" fill="#8c929b" font-size="18">Modelin eğitiminden sahada çalışan uygulamaya.</text>
   </g>
-  <circle cx="1040" cy="210" r="6" fill="#6EE7D8"/>
-  <circle cx="1128" cy="148" r="3.5" fill="#F3E2B4"/>
-  <circle cx="968" cy="268" r="2.5" fill="#9DB7FF"/>
-
-  <rect x="0" y="0" width="6" height="420" fill="url(#gold)"/>
-
-  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
-    <text x="72" y="132" fill="#9DB7FF" font-size="15" letter-spacing="4.5">SOFTWARE ENGINEER</text>
-    <text x="72" y="198" fill="#F7F4EE" font-size="52" font-weight="700">Beyza Nur K&#305;l&#305;&#231;</text>
-    <text x="72" y="248" fill="#C9D4F0" font-size="20">Mobil &#183; web &#183; HMI &#183; g&#252;venlik do&#287;rulama</text>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#f4f1ea">
+    <text x="64" y="438" font-size="36">20</text>
+    <text x="210" y="438" font-size="36">09</text>
+    <text x="390" y="438" font-size="36">17</text>
   </g>
-
-  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
-    <rect x="72" y="292" width="118" height="34" rx="17" fill="none" stroke="#C9A86C" stroke-opacity="0.7"/>
-    <text x="131" y="314" text-anchor="middle" fill="#F3E2B4" font-size="13">Flutter</text>
-
-    <rect x="202" y="292" width="132" height="34" rx="17" fill="none" stroke="#9DB7FF" stroke-opacity="0.55"/>
-    <text x="268" y="314" text-anchor="middle" fill="#C9D4F0" font-size="13">TypeScript</text>
-
-    <rect x="346" y="292" width="110" height="34" rx="17" fill="none" stroke="#6EE7D8" stroke-opacity="0.55"/>
-    <text x="401" y="314" text-anchor="middle" fill="#C9D4F0" font-size="13">Python</text>
-
-    <rect x="468" y="292" width="86" height="34" rx="17" fill="none" stroke="#C9A86C" stroke-opacity="0.45"/>
-    <text x="511" y="314" text-anchor="middle" fill="#C9D4F0" font-size="13">Java</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#8c929b" font-size="14">
+    <text x="118" y="438">proje</text>
+    <text x="268" y="438">açık kaynak</text>
+    <text x="448" y="438">sertifika</text>
+    <text x="64" y="482" fill="#8db4e2" font-size="16">l4ngel.github.io</text>
   </g>
 </svg>
