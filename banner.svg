@@ -6,42 +6,42 @@
     <text x="64" y="118" fill="#8c929b" font-size="15" letter-spacing="3.2">BİLGİSAYAR MÜHENDİSİ  ·  ANKARA</text>
     <text x="64" y="196" fill="#f4f1ea" font-family="Georgia, Times New Roman, serif" font-size="60">Beyza Nur Kılıç</text>
     <text x="64" y="244" fill="#b4b9c1" font-size="20">Papilon Savunma  ·  Junior Full-Stack Developer</text>
-    <text x="690" y="78" fill="#8c929b" font-size="13" letter-spacing="2.4">DİLLER  ·  KOD HACMİ</text>
+    <text x="690" y="78" fill="#8c929b" font-size="13" letter-spacing="2.4">DİLLER  ·  AÇIK KAYNAK KOD HACMİ</text>
   </g>
   
   <text x="690" y="134" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Python</text>
   <rect x="830" y="122" width="300" height="8" rx="4" fill="#23272c"/>
-  <rect x="830" y="122" width="102" height="8" rx="4" fill="#4B8BBE"/>
-  <text x="1150" y="134" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">34%</text>
+  <rect x="830" y="122" width="123" height="8" rx="4" fill="#4B8BBE"/>
+  <text x="1150" y="134" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">41%</text>
 
-  <text x="690" y="192" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">C#</text>
+  <text x="690" y="192" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">C++</text>
   <rect x="830" y="180" width="300" height="8" rx="4" fill="#23272c"/>
-  <rect x="830" y="180" width="87" height="8" rx="4" fill="#C4A0E0"/>
-  <text x="1150" y="192" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">29%</text>
+  <rect x="830" y="180" width="72" height="8" rx="4" fill="#F28B82"/>
+  <text x="1150" y="192" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">24%</text>
 
-  <text x="690" y="250" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">JavaScript</text>
+  <text x="690" y="250" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Kotlin</text>
   <rect x="830" y="238" width="300" height="8" rx="4" fill="#23272c"/>
-  <rect x="830" y="238" width="54" height="8" rx="4" fill="#E6C35C"/>
-  <text x="1150" y="250" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">18%</text>
+  <rect x="830" y="238" width="30" height="8" rx="4" fill="#A78BFA"/>
+  <text x="1150" y="250" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">10%</text>
 
-  <text x="690" y="308" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Dart</text>
+  <text x="690" y="308" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">C#</text>
   <rect x="830" y="296" width="300" height="8" rx="4" fill="#23272c"/>
-  <rect x="830" y="296" width="27" height="8" rx="4" fill="#2EC4B6"/>
+  <rect x="830" y="296" width="27" height="8" rx="4" fill="#C4A0E0"/>
   <text x="1150" y="308" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">9%</text>
 
-  <text x="690" y="366" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Kotlin</text>
+  <text x="690" y="366" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Dart</text>
   <rect x="830" y="354" width="300" height="8" rx="4" fill="#23272c"/>
-  <rect x="830" y="354" width="6" height="8" rx="4" fill="#A78BFA"/>
-  <text x="1150" y="366" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">2%</text>
+  <rect x="830" y="354" width="24" height="8" rx="4" fill="#2EC4B6"/>
+  <text x="1150" y="366" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">8%</text>
 
-  <text x="690" y="424" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Swift</text>
+  <text x="690" y="424" fill="#e8e9eb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Java</text>
   <rect x="830" y="412" width="300" height="8" rx="4" fill="#23272c"/>
-  <rect x="830" y="412" width="4" height="8" rx="4" fill="#E07A5F"/>
-  <text x="1150" y="424" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">1%</text>
+  <rect x="830" y="412" width="9" height="8" rx="4" fill="#E6C35C"/>
+  <text x="1150" y="424" fill="#b4b9c1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">3%</text>
 
   <g font-family="Georgia, Times New Roman, serif" fill="#f4f1ea">
-    <text x="64" y="320" font-size="36">20</text>
-    <text x="210" y="320" font-size="36">09</text>
+    <text x="64" y="320" font-size="36">37</text>
+    <text x="210" y="320" font-size="36">32</text>
     <text x="390" y="320" font-size="36">17</text>
   </g>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#8c929b" font-size="14">
